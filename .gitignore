@@ -1,3 +1,5 @@
 .snakemake
 *.err
 *.out
+input/
+output/
